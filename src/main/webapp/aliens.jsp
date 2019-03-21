@@ -8,6 +8,19 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Programmers</title>
+	<style>
+		* {
+			font-family: "Trebuchet MS", sans-serif;
+		}
+		table {
+			border-spacing: 0;
+			border-collapse: collapse;
+		}
+		td {
+			padding: 1em;
+			border: solid gray 1px;
+		}
+	</style>
 </head>
 <body>
 	<h2>Programmers</h2>
